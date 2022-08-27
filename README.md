@@ -1,3 +1,4 @@
+<img src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif" width="850" height="280">
 <h1 align="center">Hi 👋, I'm Amirreza Asgharian Asl</h1>
 <h3 align="center">A junior Data Scientist from Iran</h3>
 
