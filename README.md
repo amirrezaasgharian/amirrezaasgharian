@@ -1,6 +1,6 @@
 <img src="https://cdn.dribbble.com/users/43762/screenshots/1193016/mtn-graph-dribbbble.gif" width="850" height="280">
 <h1 align="center">Hi 👋, I'm Amirreza Asgharian Asl</h1>
-<h3 align="center">A junior Data Scientist from Iran</h3>
+<h3 align="center">Data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirreza2258&label=Profile%20views&color=0e75b6&style=flat" alt="amirreza2258" /> </p>
 
